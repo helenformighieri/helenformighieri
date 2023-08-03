@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2>Oi, eu sou a Helen🖖</h2>
 
-<!--
-**helenformighieri/helenformighieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="150" style="margin-left: 20px" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif"/>
 
-Here are some ideas to get you started:
+- 🔭 Hoje sou estudante e busco minha primeira vaga como desenvolvedora estagiaria
+- 🌱 Graduanda em Analise e Desenvolvimento de sistemas na UNIASSELVI, aluna no curso Profissão Full-Stack Java na EBAC e aluna no curso Maratona Java no DevDojo.  
+- 📫 Contato via e-mail: helendianaf@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block">
+  <img aligne="center" alt="icone-Java" height="50" width="50" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png">
+  <img aligne="center" alt="icone-JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img aligne="center" alt="icone-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img aligne="center" alt="icone-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
