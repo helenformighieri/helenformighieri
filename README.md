@@ -14,7 +14,7 @@
   <img aligne="center" alt="icone-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div style="display: right">
- <img align="right" width="500px" style="margin-top:-20px" src="https://raw.githubusercontent.com/helenformighieri/helenformighieri/main/octocat-1691108624207.png">
+ <img align="center" width="500px" style="margin-top:-20px" src="https://raw.githubusercontent.com/helenformighieri/helenformighieri/main/octocat-1691108624207.png">
 </div>
 
 
