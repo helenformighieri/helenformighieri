@@ -1,7 +1,5 @@
 <h2>Oi, eu sou a Helen🖖</h2>
 
- <img align="right" width="300px" style="margin-top:-20px" src="https://raw.githubusercontent.com/helenformighieri/helenformighieri/main/octocat-1691108624207.png">
-
 - 🔭 Hoje sou estudante e busco minha primeira vaga como desenvolvedora estagiaria
 - 🌱 Estudante de graduação em Analise e Desenvolvimento de Sistemas na UNIASSELVI, aluna no curso Profissão Full-Stack Java na EBAC e aluna no curso Maratona Java no DevDojo.  
 - 📫 Contato via e-mail: helendianaf@gmail.com
