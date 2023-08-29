@@ -1,6 +1,6 @@
 <h2>Oi, eu sou a Helen🖖</h2>
 
-- 🔭 Hoje sou estudante e busco minha primeira vaga como desenvolvedora estagiaria
+- 🔭 Hoje sou estudante Full-Stack com enfase em Java
 - 🌱 Estudante de graduação em Analise e Desenvolvimento de Sistemas na UNIASSELVI, aluna no curso Profissão Full-Stack Java na EBAC e aluna no curso Maratona Java no DevDojo.  
 - 📫 Contato via e-mail: helendianaf@gmail.com
 
