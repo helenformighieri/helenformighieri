@@ -1,7 +1,7 @@
 <h2>Oi, eu sou a Helen🖖</h2>
 
-- 🔭 Hoje sou estudante Full-Stack com enfase em Java
-- 🌱 Estudante de graduação em Analise e Desenvolvimento de Sistemas na UNIASSELVI, aluna no curso Profissão Full-Stack Java na EBAC e aluna no curso Maratona Java no DevDojo.  
+- 🔭 Estudante Full-Stack
+- 🌱 Graduanda em Analise e Desenvolvimento de Sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java na EBAC. 
 
  <br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/helenformighieri/)
  
