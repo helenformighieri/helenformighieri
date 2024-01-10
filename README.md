@@ -1,17 +1,39 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ec368d&reversal=true&descAlign=57&descAlignY=50&section=header">
+
 <h2>Oi, eu sou a Helen🖖</h2>
 
-- 🔭 Estudante Full-Stack
-- 🌱 Graduanda em Analise e Desenvolvimento de Sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java na EBAC. 
+<p style="text-align:center">
+ - 🌱 Graduanda em Analise e Desenvolvimento de Sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br>na EBAC. 
+ <br>
+ - 🔭 Em busca da primeira colocação na área de tecnologia.
 
- <br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/helenformighieri/)
- 
+</p>
+<br>
+<br>
+<p align="center">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/27f18c10488f45d017adc13f18a3c005ed762268/vue-js.svg">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/sass.png">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/java.png">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/js.png">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/html-5.png">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/css-3.png">
+  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/React-icon.svg.png">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <a href="https://www.linkedin.com/in/helenformighieri/">
+    <img src="https://github.com/helenformighieri/servidores-estaticos/blob/main/linkedin.png" alt="LinkedIn Connect" width="40" height="40">
+  </a>
 
-<div style="display: inline-block">
-  <h3>Tecnologias</h3>
-  <img aligne="center" alt="icone-Java" height="30" width="30" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png">
-  <img aligne="center" alt="icone-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img aligne="center" alt="icone-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img aligne="center" alt="icone-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ec368d&reversal=true&descAlign=57&descAlignY=50&section=footer">
 
 
