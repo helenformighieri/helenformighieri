@@ -3,7 +3,7 @@
 <h2>Oi, eu sou a Helen🖖</h2>
 
 <p style="text-align:center">
- - 🌱 Graduanda em Analise e Desenvolvimento de Sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br>na EBAC. 
+ - 🌱 Graduanda em Engenharia de Software na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br>na EBAC. 
  <br>
  - 🔭 Em busca da primeira colocação na área de tecnologia.
 
