@@ -1,36 +1,41 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ec368d&reversal=true&descAlign=57&descAlignY=50&section=header">
 
-<h2>Oi, eu sou a Helen🖖</h2>
+<h1 align="left">Oi, eu sou a Helen✨</h1>
 
-<p style="text-align:center">
- - 🌱 Graduanda em Engenharia de Software na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br>na EBAC. 
- <br>
- - 🔭 Em busca da primeira colocação na área de tecnologia.
+###
 
-</p>
-<br>
-<br>
-<p align="center">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/27f18c10488f45d017adc13f18a3c005ed762268/vue-js.svg">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/sass.png">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/java.png">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/js.png">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/html-5.png">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/css-3.png">
-  <img style="border-radius: 20px; margin: 0 10px;" width="50" height="50" src="https://raw.githubusercontent.com/helenformighieri/servidores-estaticos/main/React-icon.svg.png">
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  <a href="https://www.linkedin.com/in/helenformighieri/">
-    <img src="https://github.com/helenformighieri/servidores-estaticos/blob/main/linkedin.png" alt="LinkedIn Connect" width="40" height="40">
-  </a>
+<p align="left">- Cursando Analise e Desenvolvimento de sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br> na EBAC. <br> - Apaixonada por tecnologia, por pessoas e por aprender.</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helenformighieri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helenformighieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
