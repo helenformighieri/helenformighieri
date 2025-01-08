@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Cursando Analise e Desenvolvimento de sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br> na EBAC. <br> - Apaixonada por tecnologia, por pessoas e por aprender.</p>
+<p align="left">- Cursando Analise e Desenvolvimento de sistemas na UNIASSELVI e aluna no curso Profissão Full-Stack Java <br> na EBAC. <br> - Apaixonada por tecnologia e por aprender.</p>
 
 ###
 
